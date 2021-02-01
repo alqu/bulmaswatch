@@ -22,8 +22,8 @@
     "themes"
   ],
   "devDependencies": {
-    "browser-sync": "^2.26.13",
-    "bulma": "0.9.1",
+    "browser-sync": "^2.26.14",
+    "bulma": "0.9.2",
     "del": "^5.1.0",
     "gulp": "3.x",
     "gulp-autoprefixer": "^7.0.1",
